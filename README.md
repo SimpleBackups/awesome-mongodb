@@ -94,6 +94,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. F
  - [Kubernetes examples](https://github.com/kubernetes/examples/tree/master/staging/nodesjs-mongodb) - Deployment tutorial of a basic Node.js and MongoDB web stack on Kubernetes
  - [Deploy a Highly-Available MongoDB Replica Set on AWS](https://eladnava.com/deploy-a-highly-available-mongodb-replica-set-on-aws/)
  - [Sharded Cluster with Docker Compose](https://github.com/minhhungit/mongodb-cluster-docker-compose)
+ - [MongoDump Guide](https://simplebackups.com/blog/the-complete-mongodump-guide-with-examples/) - mongodump command and how to use it to create a backup & how to restore it
 
 ### More
  - [MongoDB source code](https://github.com/mongodb/mongo)
@@ -323,6 +324,7 @@ Services:
 
  - [Datadog](https://www.datadoghq.com/blog/monitor-mongodb-performance-with-datadog/) - SaaS-based monitoring
  - [Solarwindws Database Performance Monitor](https://www.solarwinds.com/database-performance-monitor) - SaaS-based query performance analytics and monitoring
+ - [SimpleBackups](https://simplebackups.com/mongodb-backup/) - SaaS-based Mongodb backup automation
 
 ### Low-Code
 
